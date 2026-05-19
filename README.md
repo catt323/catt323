@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hola, soy Cat 👋
 
-<!--
-**catt323/catt323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🩺 Sobre mí
+Soy Técnico en Enfermería titulada y actualmente estoy iniciando mi camino en el mundo del desarrollo web.
 
-Here are some ideas to get you started:
+Me interesa combinar el área de la salud con la tecnología, desarrollando habilidades que me permitan crecer profesionalmente y adaptarme a nuevos desafíos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Actualmente
+- Formo parte del bootcamp de Generation
+- Estoy aprendiendo desarrollo web
+- Me enfoco en mejorar mi lógica de programación y habilidades técnicas
+
+## 📚 Tecnologías que estoy aprendiendo
+- HTML
+- CSS
+- JavaScript
+- Git y GitHub
+
+## 🎯 Mi objetivo
+Desarrollarme en el área tecnológica, creando soluciones útiles y creciendo constantemente como profesional.
+
+## 🌱 Un poco más sobre mí
+- Experiencia en el área de salud
+- Interés en la tecnología y el aprendizaje continuo
+- Enfocada en mejorar cada día
+
+## 💬 Mensaje
+_"Estoy construyendo una nueva etapa profesional, paso a paso."_
+
+---
+⭐ Gracias por visitar mi perfil
