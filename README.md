@@ -1,39 +1,39 @@
-<h1 align="center">🏴‍☠️ Hola, soy Cat 🌊</h1>
+<h1 align="center">🏴‍☠️ Hola, soy Cat 🌙</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13Uqp5IGFpmDle/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="280"/>
 </p>
 
 <p align="center">
-  🌙 Técnico en Enfermería titulada · 💻 Aspirante a desarrolladora · 🏴‍☠️ Navegando hacia nuevos sueños
+  🌙 Técnico en Enfermería titulada · 💻 Aspirante a desarrolladora · ⚓ Navegando hacia nuevos sueños
 </p>
 
 ---
 
 ## 🧭 Sobre mí
-Como todo buen pirata, estoy en búsqueda de un nuevo camino.
+Como en toda gran travesía, estoy construyendo un nuevo rumbo.
 
-Soy Técnico en Enfermería titulada y ahora estoy explorando el mundo del desarrollo web, enfrentando nuevos desafíos y aprendiendo en cada paso del viaje.
+Soy Técnico en Enfermería titulada y actualmente estoy explorando el mundo del desarrollo web, aprendiendo nuevas habilidades y enfrentando retos que me hacen crecer.
 
 ---
 
 ## ⚓ Mi travesía actual
 🏴‍☠️ Bootcamp Generation  
 🌊 Aprendiendo desarrollo web  
-💻 Entrenando mi lógica de programación  
-✨ Construyendo habilidades desde cero  
+💻 Entrenando lógica de programación  
+✨ Construyendo nuevas habilidades desde cero  
 
 ---
 
-## 🗺️ Habilidades en desarrollo
+## 🗺️ Tecnologías en aprendizaje
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
 </p>
 
 ---
 
-## 💰 Mi "One Piece"
-Mi objetivo es construir una nueva vida en tecnología, donde cada proyecto sea un tesoro y cada aprendizaje una victoria.
+## 💰 Mi “One Piece”
+Mi objetivo es construir una vida profesional en tecnología, donde cada proyecto sea un paso más hacia mi propio tesoro.
 
 ---
 
@@ -44,7 +44,7 @@ Mi objetivo es construir una nueva vida en tecnología, donde cada proyecto sea 
 
 ---
 
-## 💫 Mi juramento pirata
+## 💫 Juramento
 <p align="center">
 
 > “Si hay voluntad, hay un camino.” 🏴‍☠️  
@@ -63,5 +63,5 @@ Mi objetivo es construir una nueva vida en tecnología, donde cada proyecto sea 
 ---
 
 <p align="center">
-  🌊 Gracias por visitar mi barco ⭐  
+  ⚓ Gracias por visitar mi barco ⭐  
 </p>
