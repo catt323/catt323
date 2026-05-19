@@ -1,60 +1,67 @@
-<h1 align="center">🏴‍☠️ Cat</h1>
+<h1 align="center">✨ Hola, soy Cat 🌙</h1>
 
 <p align="center">
-  <img src="https://static.wikia.nocookie.net/onepiece/images/5/5a/Trafalgar_D._Water_Law_Anime_Post_Timeskip_Infobox.png" width="240"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
 </p>
 
 <p align="center">
-  🌙 Técnico en Enfermería titulada · 💻 Desarrollo web en progreso · ⚓ En búsqueda de nuevos horizontes
+  🌙 Técnico en Enfermería titulada · 💻 Futura desarrolladora · ✨ En constante evolución
 </p>
 
 ---
 
-## 🌊 Sobre mí
-Estoy en una etapa de transición, explorando el mundo del desarrollo web mientras construyo nuevas habilidades.
+## 🩺 Sobre mí
+Soy Técnico en Enfermería titulada, actualmente iniciando una nueva etapa en el mundo del desarrollo web.
 
-Vengo del área de la salud, y ahora estoy expandiendo mi camino hacia la tecnología con disciplina y constancia.
-
----
-
-## ⚓ Actualmente
-🏴‍☠️ Bootcamp Generation  
-🌙 Aprendiendo desarrollo web  
-💻 Mejorando lógica de programación  
-✨ Construyendo base técnica desde cero  
+Me motiva aprender, superarme y construir un camino donde pueda unir la salud con la tecnología.
 
 ---
 
-## 💻 Tecnologías
+## 🌌 Actualmente
+🌙 Formo parte del bootcamp de Generation  
+⭐ Aprendiendo desarrollo web  
+✨ Desarrollando mi lógica de programación  
+💫 Construyendo nuevas habilidades desde cero  
+
+---
+
+## 💻 Tecnologías en aprendizaje
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
 </p>
 
 ---
 
-## 🌌 Objetivo
-Crear una carrera en tecnología donde pueda desarrollar proyectos reales, aprender constantemente y crecer profesionalmente.
+## 🎯 Objetivo
+Construir una carrera en tecnología, desarrollando proyectos que tengan impacto real y reflejen mi crecimiento personal y profesional.
 
 ---
 
-## 🖤 Filosofía
-<p align="center">
+## 🌠 Un poco más sobre mí
+✨ Me interesa la salud y la tecnología  
+🌙 Me gusta aprender cosas nuevas constantemente  
+⭐ Me esfuerzo por mejorar cada día  
 
+---
+
+## 💫 Filosofía
+<p align="center">
+  
 > “Si hay voluntad, hay un camino.” 🌙  
 
 </p>
 
 ---
 
-## ⚓ Conecta conmigo
+## 🌌 Conecta conmigo
 <p align="center">
   <a href="https://github.com/TU-USUARIO">
-    <img src="https://img.shields.io/badge/GitHub-Perfil-0d1117?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github">
   </a>
 </p>
 
 ---
 
 <p align="center">
-  🌊 Gracias por visitar mi perfil 🖤  
+  ⭐ Gracias por visitar mi perfil ✨  
 </p>
