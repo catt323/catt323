@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hola, soy Cat 🌙</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@ Construir una carrera en tecnología, desarrollando proyectos que tengan impacto
 ## 💫 Filosofía
 <p align="center">
   
-> “Estoy construyendo mi futuro paso a paso, sin detenerme.” 🌙  
+> “Si hay voluntad, hay un camino.” 🌙  
 
 </p>
 
